@@ -1,0 +1,6 @@
+Reading ths file is must before working in this repo.
+
+In this repo you can have summary of every file of python and it's basic information or question for wring the code.
+You can easily learn and understand the code just by reading it or comments written in the code.
+
+
